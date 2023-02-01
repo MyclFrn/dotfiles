@@ -14,9 +14,19 @@ Customization
 
 ![][my-forest]
 
+## Rofi
+
+Adding -desktop applications pentesting.
+
+![][rofi]
+
 ## Set And Clear Target
 
 ![][target-url]
+
+
+
+
 
 [logo-url]: https://github.com/MyclFrn/MyclFrn/blob/main/files/Logo.png
 [target-url]: https://github.com/MyclFrn/dotfiles/blob/main/images/setcleartarget.gif
@@ -24,3 +34,5 @@ Customization
 [forest-base]: https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/forest/main.gif
 
 [my-forest]: https://github.com/MyclFrn/dotfiles/blob/main/images/myforest.jpg
+
+[rofi]: https://github.com/MyclFrn/dotfiles/blob/main/images/rofi.png
