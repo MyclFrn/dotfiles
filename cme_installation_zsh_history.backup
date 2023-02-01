@@ -1,0 +1,490 @@
+cat
+sudo apt install bat
+which cat
+which bat
+cat 
+cat /etc/passwd
+asd
+sudo apt install zsh-autosuggestions
+nano .zshrc
+sudo apt install git
+cd /usr/share/
+mkdir zsh-sudo
+sudo mkdir zsh-sudo
+sudo cd zsh-sudo
+sudo apt install lsd
+/usr/bin/ls
+sudo apt install ./lsd_0.23.1_amd64.deb
+sudo apt install rmk
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+cd kitty
+wget http://192.168.1.41/.config/kitty/kitty.conf
+wget http://192.168.1.41/.config/kitty/color.ini
+nano .config/kitty
+nano .config/kitty/kitty.conf
+cd bspwm
+sudo apt install locale
+sudo apt install localecl
+sudo apt install locate
+locate picom
+mkdir picom
+cd picom
+cp /usr/share/doc/picom/examples/picom.sample.conf ./picom.conf
+nano picom.conf
+picom --config picom.conf
+sudo picom .config/picom/picom.conf
+sudo picom --config .config/picom/picom.conf
+sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-rendb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb--xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl-dev libegl-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson
+sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-rendr0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb--xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl-dev libegl-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson
+sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb--xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl-dev libegl-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson
+sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb-xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl-dev libegl-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson
+wget https://raw.githubusercontent.com/ericmurphyxyz/dotfiles/master/.config/picom/picom.conf
+rm picom.conf
+mv picom.conf.1 picom.conf
+nano
+wget http://192.168.1.32/picom.conf
+sudo apt remove picom
+sudo apt install picom
+picom --experimental-backends &
+pkill picom
+picom --experimental-backends -b
+locate picom.
+feh -bg-fill Im√ÉÅgenes/WP4k.jpg
+feh --bg-fill Im√ÉÅgenes/WP4k.jpg
+mv Im√ÉÅgenes/WP4k.jpg /home/s0bek/.
+nano .config/picom/picom.conf
+mv Im√ÉÅgenes Imagenes
+mv WP4k.jpg Imagenes/.
+wget http://192.168.1.32/spike.jpg
+feh --bg-fill Imagenes/WP4k.jpg
+mv spike.jpg Imagenes/.
+cat picom.conf
+rmk picom.conf
+polybar
+ls Descargas
+git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+rmk lsd_0.23.1_amd64.deb
+cd polybar-themes
+chmod +x setup.sh
+./setup.sh
+./launch.sh --theme forest
+./launch.sh --theme --forest
+sudo apt install libmpdclient
+sudo apt install libmpdclient-dev
+cd panels/
+cd --
+./launch.sh --hack
+git clone https://github.com/SNGWN/Burp-Suite.git
+cd Burp-Suite
+cat Kali_Linux_Setup.sh
+./Kali_Linux_Setup.sh
+sudo apt install openjdk-dev
+sudo apt install openjdk
+sudo apt install java
+sudo apt install jdk
+sudo apt install openjdk-jre
+java 
+sudo apt install open-jdk
+sudo apt install default-jdk
+sudo ./Kali_Linux_Setup.sh
+cat burp
+/usr/bin/cat burp
+java -jar loader.jar
+java -jar keygen.jar
+./launch.sh --forest
+/home/s0bek/.config/polybar/launch.sh --forest
+feh /usr/share/backgrounds/hackthebox-alt.jpg
+feh --bg-fill /usr/share/backgrounds/hackthebox.jpg
+feh --bg-fill /usr/share/backgrounds/hackthebox-alt.jpg
+xrandr
+xrandr 1920x1080
+xrandr --help
+xrandr --output Virtual1 --mode 1920x1080
+whoami
+rm polybar-themes
+sudo rmk polybar-themes
+sudo rm -r polybar-themes
+cd Imagenes
+rmk *
+
+wget http://192.168.1.41/.p10k.zsh
+rm .p10k.zsh.1
+sudo rm .p10k.zsh.1
+asdas
+whoamsd
+cat /etc
+cat config.ini
+mv nvim nvim.backup
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim y
+sudo rm -r nvim
+neovim
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+sudo rm -rf ~/.config/nvim && rm -rf ~/.local/share/nvim && rm -rf ~/.cache/nvim
+sudo rm -rf ~/.config/nvim
+sudo rm -rf ~/.local/share/nvim
+sudo rm -rf ~/.cache/nvim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim / nvim +'hi NormalFloat guibg=#1e222a' +PackerSync
+nvim +'hi NormalFloat guibg=#1e222a' +PackerSync
+wget http://192.168.1.41/nvim.tar.gz
+tar -xzf nvim.backup
+sudo apt install ripgrep
+git clone https://github.com/NvChad/NvChad ~/.config/nvim && nvim +'hi NormalFloat guibg=#1e222a' +PackerSync
+PackerSyn
+cd lua
+tar -xzf nvim.tar.gz
+cd nvim
+nano init.lua
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+nvim init.lua
+sudo rm -r /usr/share/nvim
+sudo git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+rm -rf ~/.config/nvim && rm -rf ~/.local/share/nvim && rm -rf ~/.cache/nvim
+rm /usr/share/vim
+sudo apt install nvim
+sudo apt purge neovim
+sudo apt reinstall neovim
+nvim 
+sudo apt-get install --reinstall vim vim-runtime vim-common
+sudo apt-get install --reinstall neovim neovim-runtime neovim-common
+sudo apt-get install --reinstall neovim neovim-runtime nvim-common
+sudo apt-get install --reinstall neovim neovim-runtime
+locate nvim
+sudo apt install neovim
+sudo apt remove neovim
+rm /usr/share/applications/nvim.desktop
+sudo rm /usr/share/applications/nvim.desktop
+sudo apt remove neovim*
+sudo apt remove neovim-runtima
+sudo apt remove neovim-runtime
+sudo apt install ./nvim-linux64.deb
+nvim -v
+rm .local/share/nvim
+rm -r .config/nvim
+rm -r .local/share/nvim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+rm nvim-linux64.deb
+ls -la
+cd .config
+locate rofi
+cat launcher.sh
+nano bspwm/bspwmrc
+nano sxhkd/sxhkdrc
+cd .config/polybar
+nano bars.ini
+cd rofi
+./preview.sh
+nvim launch.sh
+nano user_modules.ini
+nano modules.ini
+kitty --help
+nvim bars.ini
+xprop -root _NET_DESKTOP_NAMES
+xprop --help
+xprop -id I
+xprop -id 1
+curl -sS https://download.spotify.com/debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - \
+echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
+spotify --disable-gpu --disable-software-rasterizer
+spotify --no-zygote
+which spotify
+cat /usr/bin/spotify
+cd /opt
+nano Spotify
+chmod +x Spotify
+./Spotify
+cd /home/s0bek/Descargas
+rm bloodhound.png burp-suite.png
+unzip devicons-master.zip
+cd devicons-master
+cd \!SVG
+rmk -r devicons-master
+rmk devicons-master
+rmk --help
+rm -r devicons-master
+rmk devicons-master.zip
+git clone https://github.com/noam09/fontcustom-burp-suite.git
+mv Burp_1f883ee54015e9dfd40a1f9c7276edf2.ttf /usr/share/fonts/.
+sudo mv Burp_1f883ee54015e9dfd40a1f9c7276edf2.ttf /usr/share/fonts/.
+cd fontcustom-burp-suite
+mv Burp_1f883ee54015e9dfd40a1f9c7276edf2.* /usr/share/fonts/.
+sudo mv Burp_1f883ee54015e9dfd40a1f9c7276edf2.* /usr/share/fonts/.
+rm -r fontcustom-burp-suite
+unzip burp.zip
+rm Burp_1f883ee54015e9dfd40a1f9c7276edf2.*
+sudo rm Burp_1f883ee54015e9dfd40a1f9c7276edf2.*
+mv fontello-a7aa30bc/font/burp.ttf /usr/share/fonts/.
+sudo mv fontello-a7aa30bc/font/burp.ttf /usr/share/fonts/.
+unzip fontello-aa588404.zip
+cd fontello-aa588404
+cd font
+sudo cp customs0bek.ttf /usr/share/fonts/
+xprop
+rm burp.ttf
+sudo rm burp.ttf
+rm Hack\ *
+sudo rm Hack\ *
+rm customs0bek.ttf
+sudo unzip Iosevka.zip IosevkaDir/.
+sudo rm customs0bek.ttf
+sudo rm fontello-a*
+sudo rm -r fontello-aa*
+sudo mv Hack.zip /usr/share/fonts/.
+sudo unzip Hack.zip
+sudo apt install openvpn
+zerotier-cli --help
+zerotier-cli leave d5e5fb6537c75b21
+sudo zerotier-cli leave d5e5fb6537c75b21
+/usr/bin/spotify.bin
+mv rm /usr/bin/spotify
+sudo rm /usr/bin/spotify
+mv /usr/bin/spotify.bin /usr/bin/spotify
+sudo mv /usr/bin/spotify.bin /usr/bin/spotify
+spotify --help
+cd /usr/bin
+spotify
+sudo chmod +x /usr/bin/spotify
+rm 1
+find . \-name internal
+find  \-name internal
+find -name internal
+find -name config
+find  \-name config
+nano config.ini
+sudo apt install playerctl
+sudo apt install zscroll
+rm burp.zip
+rm -r fontello-a7aa30bc
+mkdir Repos
+git clone https://github.com/noctuid/zscroll
+cd zscroll
+sudo apt install python-pip
+sudo apt install python3-pip
+sudo python3 setup.py install
+echo $name
+echo $target $name
+echo "ÔÉµÉ¨ $target $name"
+export target=10.10.10.53
+echo $TARGET
+which $PATH
+mv Iosevka.zip /usr/share/fonts/.
+sudo mv Iosevka.zip /usr/share/fonts/.
+cd /usr/share/fonts
+unzip Iosevka.zip
+sudo unzip Iosevka.zip
+mkdir target.sh
+rm target.sh
+rm -r target.sh
+whi
+which $target
+.env
+nano .env
+locate .env
+export
+echo $target
+cat /tmp/target
+sudo nvim /usr/bin/target
+nvim .config/polybar/scripts
+cd .config/polybar/
+mv scripts ./forest/scripts/target.sh
+cd forest/scripts
+chmod +x target.sh
+./target.sh
+clea
+cat /tmp/target /tmp/name
+rm /tmp/target
+which ifconfig
+nvim target.sh
+settarget 10.10.10.53 Kenobi
+which internal
+exit
+xclip -sel Hola
+echo "Hola" | xclip -i
+echo "Hola" | xclip -sel
+echo "Hola" | xclip -sel clip
+cd Descargas/Rofi
+cd Descargas
+cd Repos
+git clone https://github.com/PrayagS/polybar-spotify.git
+cd polybar-spotify
+mv get_spotify_status.sh ~/.config/polybar/forest/scripts/.
+mv scroll_spotify_status.sh ~/.config/polybar/forest/scripts/.
+cd 
+cd scripts
+nvim get_spotify_status.sh
+locate spotify
+rm -r polybar-spotify
+echo "deb http://httpredir.debian.org/debian stretch-backports main" | sudo tee -a /etc/apt/sources.list.d/stretch-backports.list
+wget -O - https://debian.neo4j.com/neotechnology.gpg.key | sudo apt-key add -\
+echo 'deb https://debian.neo4j.com stable latest' > /etc/apt/sources.list.d/neo4j.list\
+sudo apt-get update
+sudo apt-get install apt-transport-https
+cat firefox-esr.desktop
+cat nvim.desktop
+nvim %F
+vim
+nvim I
+sudo systemctl stop neo4j
+unzip BloodHound-linux-x64.zip
+cd BloodHound-linux-x64
+cat BloodHound
+sudo mv BloodHound-linux-x64 /opt/.
+rmk BloodHound-linux-x64.zip
+which Burp
+cat /usr/bin/Burp
+sudo nano /usr/bin/Burp
+sudo mv Burp-Suite /opt/.
+cd /usr/bin/
+sudo nvim bloodhound
+cd -
+sudo chmod +x bloodhound
+neo4j console
+sudo neo4j console
+kill %
+sudo apt-get install neo4j
+sudo nvim /usr/bin/bloodhound
+bloodhound
+wget -O - https://debian.neo4j.com/neotechnology.gpg.key | sudo apt-key add -\
+echo 'deb https://debian.neo4j.com stable latest' | sudo tee /etc/apt/sources.list.d/neo4j.list\
+sudo apt-get update
+neo4j --version
+sudo apt intsall ./neo4j-enterprise_4.4.15_all.deb
+sudo apt install ./neo4j-enterprise_4.4.15_all.deb
+cat spotify.desktop
+ll
+Burp
+sudo cp burpsuite.desktop bloodhound.desktop
+cd /usr/share/applications
+sudo nvim bloodhound.desktop
+sudo nvim burpsuite.desktop
+pwd
+nvim !
+setxkbmap es
+mv Imagenes Im√ÉÅgenes
+feh --bg-fill Im√ÉÅgenes/1.png
+feh --bg-fill Im√ÉÅgenes/3
+feh --bg-fill Im√ÉÅgenes/4.jpg
+feh --bg-fill Im√ÉÅgenes/5
+feh --bg-fill Im√ÉÅgenes/5.jpg
+feh --bg-fill Im√ÉÅgenes/6.jpg
+feh --bg-fill Im√ÉÅgenes/7.jpg
+nano colors.ini
+nvim .config/bspwm/bspwmrc
+nvim modules.ini
+nvim user_modules.ini
+settarget 10.10.10.37 Blocky
+nvim
+cd .config/polybar/forest
+sudo nvim config.ini
+feh --bg-fill Im√ÉÅgenes/2.jpg
+feh --bg-fill Im√ÉÅgenes/3.jpg
+sudo apt install neofetch
+neofetch
+nano .config/bspwm/bspwmrc
+sudo su
+which settarget
+cat .zshrc
+nano .config/polybar
+nano .config/polybar/forest/user_modules.ini
+nvim .config/polybar/forest/user_modules.ini
+sudo openvpn S0bek.ovpn
+ping 8.8.8.8
+openvpn lab_S0bek.ovpn
+sudo openvpn lab_S0bek.ovpn
+ifconfig
+nvim .config/polybar/forest/modules.ini
+nvim .config/polybar/forest/config.ini
+cd .config/picom
+cd ,,
+cd polybar
+cd forest
+nvim config.ini
+cd .config/picom/
+nvim picom.conf
+poweroff
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install python3-lsassy
+sudo apt install python3-neo4j
+pip install python3-lsassy
+pip install lsassy
+pip3 install lsassy
+pip3 install neo5j
+pip3 install neo4j
+cleartarget
+pip3 install pypsrp
+sudo apt install crackmapexec
+sudo apt-get install crackmapexec --fix-missing
+sudo apt install -y libssl-dev libffi-dev python-dev-is-python3 build-essential
+htop
+sudo apt-get --fix-broken install
+sudo apt-get --fix-broken autoremove
+sudo apt-get install crackmapexec
+apt-get install -y libssl-dev libffi-dev python-dev-is-python3 build-essential
+sudo apt-get install -y libssl-dev libffi-dev python-dev-is-python3 build-essential
+git clone https://github.com/Porchetta-Industries/CrackMapExec
+cd CrackMapExec
+sudo apt install poetry
+curl -sSL https://install.python-poetry.org | python3 -
+poetry --version
+export PATH="/home/s0bek/.local/bin:$PATH"
+sudo systemctl stop zscroll
+pip3 install -r requirements.txt
+pip3 install --upgrade pip
+pip install --upgrade pip
+pip3 install aardwolf
+Could not build wheels for aardwolf, which is required to install pyproject.toml-based projects
+sudo apt-get install build-essentials
+sudo apt-get install python-dev
+sudo apt-get install python3-dev
+pip3 install aardwolf --no-binary :all:
+pip install aardwolf 
+cd ..
+cd Descargas/Repos
+mv CrackMapExec ~/Descargas/Repos/CrackMapExec
+nvim /home/s0bek/.local/bin/poetry
+locate pyproject.toml
+poetry run crackmapexec /home/s0bek/Descargas/Repos/CrackMapExec
+poetry run crackmapexec /home/s0bek/Descargas/Repos/CrackMapExec/
+sudo updatedb
+updatedb
+which poetry
+cd /root/.local/
+ks
+ls
+cd .config/kitty/
+nvim kitty.conf
+locate PATH
+find  \-name PATH
+sudo find  \-name PATH
+which poetry 
+sudo export PATH="/home/s0bek/.local/bin/:$PATH"
+echo $PATH
+export PATH="/home/s0bek/.local/bin/:$PATH"
+chmod +x cme
+pip3 install foo
+poetry run
+pip3 install termcolor
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+export PATH="$HOME/.cargo/bin:$PATH"
+echo $HOME
+nvim .zshrc
+nvim cme
+cd /home/s0bek/Descargas/Repos/CrackMapExec
+poetry install
+poetry run crackmapexec
+cd
+./cme
+mv cme /usr/bin/.
+sudo mv cme /usr/bin/.
+cd HTB
+cme
+: 1672507962:0;cd HTB
+: 1672507963:0;ls
+: 1672507967:0;sudo openvpn lab_S0bek.ovpn
+: 1672508059:0;cd
+: 1672508108:0;cp .zsh_history cme_installation_zsh_history.backup
