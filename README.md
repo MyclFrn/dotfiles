@@ -12,6 +12,8 @@ Theme forest from Polybar-Themes by [@adi1090x](https://github.com/adi1090x/poly
 
 Customization
 
+![][my-forest]
+
 ## Set And Clear Target
 
 ![][target-url]
