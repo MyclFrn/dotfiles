@@ -16,6 +16,12 @@ Customization
 
 ![][my-forest]
 
+## Terminal
+
+Kitty, with colors custom and basic shortcuts
+
+![][kitty]
+
 ## Rofi
 
 Adding applications pentesting to menu rofi.
@@ -53,6 +59,8 @@ StartupWMClass=burpsuite
 
 ## Set And Clear Target
 
+All configuration in zshrc
+
 ![][target-url]
 
 
@@ -64,5 +72,6 @@ StartupWMClass=burpsuite
 [target-url]: https://github.com/MyclFrn/dotfiles/blob/main/images/setcleartarget.gif
 [forest-base]: https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/forest/main.gif
 [my-forest]: https://github.com/MyclFrn/dotfiles/blob/main/images/myforest.jpg
+[neovim]: https://github.com/MyclFrn/dotfiles/blob/main/images/kitty.jpg
 [rofi]: https://github.com/MyclFrn/dotfiles/blob/main/images/rofi.png
 [neovim]: https://github.com/MyclFrn/dotfiles/blob/main/images/nvchad.jpg
