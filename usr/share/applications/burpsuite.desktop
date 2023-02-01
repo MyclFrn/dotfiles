@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Burpsuite Profesional
+GenericName=Burpsuite
+;Icon=
+TryExec=Burp
+Exec=Burp
+Terminal=false
+Categories=Hacking
+StartupWMClass=burpsuite
