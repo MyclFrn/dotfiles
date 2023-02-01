@@ -18,7 +18,30 @@ Customization
 
 ## Rofi
 
-Adding -desktop applications pentesting.
+Adding applications pentesting to menu rofi.
+
+#### Add Applications to /usr/share/applications/
+
+##### Example in Burpsuite 
+```
+#File /usr/share/applications/burpsuite.desktop contain
+
+[Desktop Entry]
+Type=Application
+Name=Burpsuite Profesional
+GenericName=Burpsuite
+;Icon=
+TryExec=Burp
+Exec=Burp
+Terminal=false
+Categories=Hacking
+StartupWMClass=burpsuite
+```
+```
+> which Burp
+/usr/bin/Burp
+```
+
 
 ![][rofi]
 
